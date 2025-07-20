@@ -25,7 +25,7 @@ This project is designed as part of an assignment for AllEvents to demonstrate p
 
 ## 🚀 Getting Started
 
-1. git clone https://github.com/your-username/all_event.git
+1. git clone https://github.com/Uday-bonhq/all_event.git
 2. cd all_event and Install dependencies
 3. Firebase Setup
 
